@@ -1,0 +1,2 @@
+Dataset,Total_GO_Terms,BP_Terms,MF_Terms,BP_Percentage,MF_Percentage,Min_GO_Number,Max_GO_Number,Mean_GO_Number,Std_GO_Number,Data_Quality,Overlap_Between_Categories
+DeepGO Annotations,1521,932,589,61.28,38.72,3,2001233,138307,443749,All terms have valid GO format,0
